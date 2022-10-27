@@ -4,7 +4,7 @@
 File -> Import -> Git/Projects from Git -> Clone URI
 
 the project url is
-[https://github.com/tsadimas/spring-demo-2021.git](https://github.com/tsadimas/spring-demo-2021.git)
+[https://github.com/tsadimas/spring-demo-2022.git](https://github.com/tsadimas/spring-demo-2022.git)
 
 when the prompt to select the kind of project appears, select *Import as general project*
 
